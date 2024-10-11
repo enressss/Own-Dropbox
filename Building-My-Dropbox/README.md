@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/enressss/Own-Dropbox/blob/main/Building-My-Dropbox/Project%20Name%20(1).gif?raw=true" alt="Hello LUG👋 , We have build our own dropbox" style="width: 200px; height: 350px;">
+  <img src="https://github.com/enressss/Own-Dropbox/blob/main/Building-My-Dropbox/Project%20Name%20(1).gif?raw=true" alt="Hello LUG👋 , We have build our own dropbox" style="width: 500px; height: 500px;">
 </p>
 
 
