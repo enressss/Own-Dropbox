@@ -36,7 +36,7 @@
 
 <p style="display: flex; justify-content: center; align-items: center; gap: 23px; flex-wrap: wrap; margin: 23px;">
 
-### Backend:
+## Backend:
 
 - **Python**
 
