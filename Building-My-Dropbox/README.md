@@ -72,7 +72,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" width="90" height="35">
   </a>
 
-## How It Works
+## How It Works <a href="https://www.dropbox.com/"> <img src="https://github.com/enressss/Own-Dropbox/blob/main/Building-My-Dropbox/dribbble-dropbox-animated.gif?raw=true" height="20" width="25"></a> 
 
 1. **Client-Server Interaction:** - To manage file operations like upload/download and device syncing, the frontend (React) sends requests to the backend server (Node.js and Python).
 
